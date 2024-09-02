@@ -1,4 +1,4 @@
-# MBA Placement Prediction
+# Placement Prediction
 
 ## Description
 
